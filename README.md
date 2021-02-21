@@ -37,6 +37,8 @@ This README lists _open_ developer meetups across Africa.
 * **Name:** Nairobi JVM\
 **URL:** https://www.meetup.com/nairobi-jvm\
 **Technologies:** Java, Scala, Clojure, Kotlin, Groovy, JRuby,JPython
+* **Name:** NodeSchool Nairobi\
+**URL:** https://nodeschool.io/nairobi
 * **Name:** Nairuby\
 **URL:** https://www.meetup.com/Nairuby
 * **Name:** PHP Nairobi\
