@@ -18,6 +18,8 @@ This README lists _open_ developer meetups across Africa.
 
 ### Nairobi
 
+* **Name:** AfricaHackOn\
+**URL:** http://africahackon.com
 * **Name:** AI Kenya\
 **URL:** https://www.meetup.com/Ai-Kenya
 * **Name:** Android 254\
